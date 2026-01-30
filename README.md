@@ -8,7 +8,7 @@ The programs in this collection cover:
 
 - **Line Drawing Algorithms:**
 	- DDA (Digital Differential Analyzer)
-	- Bresenham's Line Algorithm
+	- BLA (Bresenham's Line Algorithm)
 - **Circle and Ellipse Drawing:**
 	- Midpoint Circle Algorithm
 	- Midpoint Ellipse Algorithm
@@ -22,11 +22,3 @@ The programs in this collection cover:
 	- Applying transformations to rectangles, triangles, and general polygons
 - **Interactive Menus:**
 	- Programs that accept user input for transformation parameters and display graphical results
-
-### Purpose
-
-These codes are intended for educational use, helping students understand the implementation and visualization of basic computer graphics concepts. All programs were tested on Windows environments compatible with graphics.h.
-
----
-
-If you are a student or educator working with computer graphics, feel free to use or adapt these programs for your own learning or teaching purposes.
